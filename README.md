@@ -26,6 +26,6 @@ This table lists all coding lab notebooks and exercise notebooks:
 | Tue, Feb 4, afternoon session     |  Machine Learning II<br/>(k Nearest-Neighbors)      | | | |
 | Wed, Feb 5, morning session       |  Deep Learning I<br/>(Artificial Neural Nets)      | | | |
 | Wed, Feb 5, afternoon session     |  Deep Learning II<br/>(Convolutional Neural Nets)  | | | |
-| Thu, Feb 6, morning session          |  Using ML APIs with Python <br/>(Google Cloud Vision, Open AI)          | | | |
-| Thu, Feb 6, afternoon session        |  Using Language Models with Python <br/>(Transformers and Difussors Library)    | | | |
+| Thu, Feb 6, morning session          |  Using ML APIs and Pre-built AI with Python <br/> Part 1 of 2          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/EMBA2025-Lab/blob/main/lab_06/lab_06_tutorial.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/EMBA2025-Lab/blob/main/lab_06/lab_06_exercise.ipynb)| |
+| Thu, Feb 6, afternoon session        |  Using ML APIs and Pre-built AI with Python <br/> Part 2 of 2    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/EMBA2025-Lab/blob/main/lab_07/lab_07_tutorial.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/EMBA2025-Lab/blob/main/lab_07/lab_07_exercise.ipynb)| |
 | Sun, - -                             |  Exam Exercise                                      | -  |  | - |
